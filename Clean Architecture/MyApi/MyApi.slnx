@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MyAPI.API/MyAPI.API.csproj" />
+  <Project Path="MyAPI.Application/MyAPI.Application.csproj" />
+  <Project Path="MyAPI.Core/MyAPI.Core.csproj" />
+  <Project Path="MyAPI.Infrastructure/MyAPI.Infrastructure.csproj" />
+</Solution>
