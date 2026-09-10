@@ -6,9 +6,9 @@ namespace MyAPI.API
 {
     public static class DependencyInjections
     {
-        public static IServiceCollection AddAPIDI(this IServiceCollection services)
+        public static IServiceCollection AddAPIDI(this IServiceCollection services,IConfiguration config)
         {
-            services.AddCoreDI();
+            services.AddCoreDI(config);
             services.AddApplicationDI();
             services.AddInfrastructureDI();
             return services;
