@@ -11,7 +11,7 @@ namespace MyAPI.Core
     {
         public static IServiceCollection AddCoreDI(this IServiceCollection services,IConfiguration config)
         {
-            services.Configure<IServiceCollection>(config.GetSection(ConnectionStringOption.SectionName));
+            services.Configure<ConnectionStringOption>(config.GetSection(ConnectionStringOption.SectionName));
             return services;
         }
     }

@@ -6,6 +6,8 @@ using System.Collections.Generic;
 using System.Text;
 using MyAPI.Core.Options;
 using Microsoft.Extensions.Options;
+using MyAPI.Application.Interfaces;
+using MyAPI.Infrastructure.Repositories;
 
 namespace MyAPI.Infrastructure
 {
@@ -13,8 +15,16 @@ namespace MyAPI.Infrastructure
     {
         public static IServiceCollection AddInfrastructureDI(this IServiceCollection services)
         {
-            services.AddDbContext<AppDbContext>((serviceprovider , options) => options.
-                UseSqlServer(serviceprovider.GetRequiredService<OptionsMonitor<ConnectionStringOption>>().CurrentValue.DefaultConnection));
+            services.AddDbContext<AppDbContext>((serviceprovider, options) =>
+                options.UseSqlServer(
+                    serviceprovider
+                        .GetRequiredService<IOptionsMonitor<ConnectionStringOption>>()
+                        .CurrentValue
+                        .DefaultConnection));
+
+
+            services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+
             return services;
         }
     }

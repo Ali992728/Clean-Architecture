@@ -3,40 +3,76 @@
   "WorkspaceRootPath": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.infrastructure\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|solutionrelative:myapi.infrastructure\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F983895A-E65D-A494-9FE6-EB7016AD47B3}|MyAPI.API\\MyAPI.API.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F983895A-E65D-A494-9FE6-EB7016AD47B3}|MyAPI.API\\MyAPI.API.csproj|solutionrelative:myapi.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.infrastructure\\persistency\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|solutionrelative:myapi.infrastructure\\persistency\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.application\\commands\\employeecommands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|solutionrelative:myapi.application\\commands\\employeecommands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|solutionrelative:myapi.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|solutionrelative:myapi.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F983895A-E65D-A494-9FE6-EB7016AD47B3}|MyAPI.API\\MyAPI.API.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.api\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F983895A-E65D-A494-9FE6-EB7016AD47B3}|MyAPI.API\\MyAPI.API.csproj|solutionrelative:myapi.api\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|solutionrelative:myapi.application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.core\\options\\connectionstringoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|solutionrelative:myapi.core\\options\\connectionstringoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.core\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|solutionrelative:myapi.core\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F983895A-E65D-A494-9FE6-EB7016AD47B3}|MyAPI.API\\MyAPI.API.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F983895A-E65D-A494-9FE6-EB7016AD47B3}|MyAPI.API\\MyAPI.API.csproj|solutionrelative:myapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.application\\commands\\employeecommands\\addemployeescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|solutionrelative:myapi.application\\commands\\employeecommands\\addemployeescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.core\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|solutionrelative:myapi.core\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.application\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|solutionrelative:myapi.application\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F983895A-E65D-A494-9FE6-EB7016AD47B3}|MyAPI.API\\MyAPI.API.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F983895A-E65D-A494-9FE6-EB7016AD47B3}|MyAPI.API\\MyAPI.API.csproj|solutionrelative:myapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.application\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|solutionrelative:myapi.application\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.application\\queries\\employeequeries\\getallemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|solutionrelative:myapi.application\\queries\\employeequeries\\getallemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.application\\myapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFA88B96-1AD5-62FA-49E9-0B184BE014D4}|MyAPI.Application\\MyAPI.Application.csproj|solutionrelative:myapi.application\\myapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.infrastructure\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|solutionrelative:myapi.infrastructure\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|solutionrelative:myapi.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.core\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|solutionrelative:myapi.core\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.infrastructure\\persistency\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|solutionrelative:myapi.infrastructure\\persistency\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.infrastructure\\persistency\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|solutionrelative:myapi.infrastructure\\persistency\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F983895A-E65D-A494-9FE6-EB7016AD47B3}|MyAPI.API\\MyAPI.API.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.api\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F983895A-E65D-A494-9FE6-EB7016AD47B3}|MyAPI.API\\MyAPI.API.csproj|solutionrelative:myapi.api\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F983895A-E65D-A494-9FE6-EB7016AD47B3}|MyAPI.API\\MyAPI.API.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F983895A-E65D-A494-9FE6-EB7016AD47B3}|MyAPI.API\\MyAPI.API.csproj|solutionrelative:myapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.core\\options\\connectionstringoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9848C06-E102-F416-195B-CC87A55772A8}|MyAPI.Core\\MyAPI.Core.csproj|solutionrelative:myapi.core\\options\\connectionstringoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C63AE3C-DBD2-67FD-7783-69FC6F745525}|MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj|d:\\dotnet_projects\\clean-architecture\\clean architecture\\myapi\\myapi.infrastructure\\myapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,43 +86,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Core\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "MyAPI.Core\\Entities\\Employee.cs",
-              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Core\\Entities\\Employee.cs",
-              "RelativeToolTip": "MyAPI.Core\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T14:02:09.358Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Infrastructure\\Persistency\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MyAPI.Infrastructure\\Persistency\\AppDbContext.cs",
-              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Infrastructure\\Persistency\\AppDbContext.cs",
-              "RelativeToolTip": "MyAPI.Infrastructure\\Persistency\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\Commands\\EmployeeCommands\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "MyAPI.Application\\Commands\\EmployeeCommands\\DeleteEmployeeCommand.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\Commands\\EmployeeCommands\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "MyAPI.Application\\Commands\\EmployeeCommands\\DeleteEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T11:22:12.32Z"
+              "WhenOpened": "2026-09-16T19:29:40.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConnectionStringOption.cs",
-              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Core\\Options\\ConnectionStringOption.cs",
-              "RelativeDocumentMoniker": "MyAPI.Core\\Options\\ConnectionStringOption.cs",
-              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Core\\Options\\ConnectionStringOption.cs",
-              "RelativeToolTip": "MyAPI.Core\\Options\\ConnectionStringOption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MyAPI.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "MyAPI.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T11:00:08.336Z"
+              "WhenOpened": "2026-09-15T16:03:41.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -98,23 +124,103 @@
               "RelativeToolTip": "MyAPI.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-10T10:25:46.211Z"
+              "WhenOpened": "2026-09-10T10:25:46.211Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.API\\Program.cs",
-              "RelativeDocumentMoniker": "MyAPI.API\\Program.cs",
-              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.API\\Program.cs",
-              "RelativeToolTip": "MyAPI.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Core\\DTO\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "MyAPI.Core\\DTO\\EmployeeDto.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Core\\DTO\\EmployeeDto.cs",
+              "RelativeToolTip": "MyAPI.Core\\DTO\\EmployeeDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T10:21:35.31Z"
+              "WhenOpened": "2026-09-15T16:32:27.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MyAPI.Application\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "MyAPI.Application\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T17:24:36.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MyAPI.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MyAPI.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T15:07:39.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployeesCommand.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\Commands\\EmployeeCommands\\AddEmployeesCommand.cs",
+              "RelativeDocumentMoniker": "MyAPI.Application\\Commands\\EmployeeCommands\\AddEmployeesCommand.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\Commands\\EmployeeCommands\\AddEmployeesCommand.cs",
+              "RelativeToolTip": "MyAPI.Application\\Commands\\EmployeeCommands\\AddEmployeesCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T16:02:46.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyAPI.Application",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\MyAPI.Application.csproj",
+              "RelativeDocumentMoniker": "MyAPI.Application\\MyAPI.Application.csproj",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\MyAPI.Application.csproj",
+              "RelativeToolTip": "MyAPI.Application\\MyAPI.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-16T14:20:57.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjections.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\DependencyInjections.cs",
+              "RelativeDocumentMoniker": "MyAPI.Application\\DependencyInjections.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\DependencyInjections.cs",
+              "RelativeToolTip": "MyAPI.Application\\DependencyInjections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:29:15.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllEmployeeQuery.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\Queries\\EmployeeQueries\\GetAllEmployeeQuery.cs",
+              "RelativeDocumentMoniker": "MyAPI.Application\\Queries\\EmployeeQueries\\GetAllEmployeeQuery.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\Queries\\EmployeeQueries\\GetAllEmployeeQuery.cs",
+              "RelativeToolTip": "MyAPI.Application\\Queries\\EmployeeQueries\\GetAllEmployeeQuery.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T14:46:14.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "DependencyInjections.cs",
               "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.API\\DependencyInjections.cs",
               "RelativeDocumentMoniker": "MyAPI.API\\DependencyInjections.cs",
@@ -126,44 +232,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "MyAPI.API\\Program.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.API\\Program.cs",
+              "RelativeToolTip": "MyAPI.API\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:21:35.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DependencyInjections.cs",
               "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Infrastructure\\DependencyInjections.cs",
               "RelativeDocumentMoniker": "MyAPI.Infrastructure\\DependencyInjections.cs",
               "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Infrastructure\\DependencyInjections.cs",
               "RelativeToolTip": "MyAPI.Infrastructure\\DependencyInjections.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-09T13:36:45.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DependencyInjections.cs",
-              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\DependencyInjections.cs",
-              "RelativeDocumentMoniker": "MyAPI.Application\\DependencyInjections.cs",
-              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Application\\DependencyInjections.cs",
-              "RelativeToolTip": "MyAPI.Application\\DependencyInjections.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Infrastructure\\Persistency\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "MyAPI.Infrastructure\\Persistency\\AppDbContextFactory.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Infrastructure\\Persistency\\AppDbContextFactory.cs",
+              "RelativeToolTip": "MyAPI.Infrastructure\\Persistency\\AppDbContextFactory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawBAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T13:29:15.742Z"
+              "WhenOpened": "2026-09-14T16:57:24.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "DependencyInjections.cs",
               "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Core\\DependencyInjections.cs",
               "RelativeDocumentMoniker": "MyAPI.Core\\DependencyInjections.cs",
               "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Core\\DependencyInjections.cs",
               "RelativeToolTip": "MyAPI.Core\\DependencyInjections.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-09T11:14:56.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "MyAPI.Core\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "MyAPI.Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:14:23.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Infrastructure\\Persistency\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MyAPI.Infrastructure\\Persistency\\AppDbContext.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Infrastructure\\Persistency\\AppDbContext.cs",
+              "RelativeToolTip": "MyAPI.Infrastructure\\Persistency\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:22:12.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConnectionStringOption.cs",
+              "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Core\\Options\\ConnectionStringOption.cs",
+              "RelativeDocumentMoniker": "MyAPI.Core\\Options\\ConnectionStringOption.cs",
+              "ToolTip": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Core\\Options\\ConnectionStringOption.cs",
+              "RelativeToolTip": "MyAPI.Core\\Options\\ConnectionStringOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:00:08.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "MyAPI.Infrastructure.csproj",
               "DocumentMoniker": "D:\\Dotnet_Projects\\Clean-Architecture\\Clean Architecture\\MyApi\\MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj",
               "RelativeDocumentMoniker": "MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj",
@@ -171,7 +325,8 @@
               "RelativeToolTip": "MyAPI.Infrastructure\\MyAPI.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-09T10:53:26.787Z"
+              "WhenOpened": "2026-09-09T10:53:26.787Z",
+              "EditorCaption": ""
             }
           ]
         }

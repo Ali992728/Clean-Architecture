@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace MyAPI.Core.Entities
+namespace MyAPI.Core.DTO
 {
-    public class Employee
+    public class EmployeeDto
     {
-        [Key]
         public int Id { get; set; }
 
         [MaxLength(100)]
@@ -17,6 +16,7 @@ namespace MyAPI.Core.Entities
         public string? Position { get; set; }
 
         [MaxLength(100)]
+        [EmailAddress]
         public string? Email { get; set; }
 
         public DateTime? DateOfBirth { get; set; }
